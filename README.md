@@ -5,11 +5,8 @@ Hello 👋, I'm Wendao -- A product maker,a web developer,a game developer.I am 
 ### Poetry
 
 - running water does not compete,but never stop,
-
 - design and program are the only thing in my life,
-
 - i'm not keen to this things,but enjoy it,
-
 - just like eat or sleep.
 
 <img 
