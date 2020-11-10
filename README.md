@@ -2,7 +2,10 @@
 
 Hello 👋, I'm Wendao -- A product maker,a web developer,a game developer.I am focusing in best design products and creating the historical games about China.My mission is to bring my taste on games、books、films and products to everyone,to let it know what's the best.
 
-<p align="left">`As goods as water,running water does not compete，but never stop.`Design and program are the only thing in my life,i'm not keen to this things,but enjoy it,just like eat or sleep.</p>
+- as goods as water,running water does not compete，but never stop.
+- design and program are the only thing in my life.
+- i'm not keen to this things,but enjoy it.
+- just like eat or sleep.
 
 <img 
 align="right"
