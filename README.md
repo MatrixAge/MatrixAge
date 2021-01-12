@@ -6,6 +6,6 @@ I love to appreciate all kinds of architecture and get inspiration from it. I ha
 
 ## Sprites
 
-I have a lot of research on ancient Chinese culture, such as Tao Te Ching, Shan Hai Jing, the book of songs, Chu Ci and so on. These ancient books give me a lot of inspiration on how to be a man and how to design games.I like a sentence in Tao Te Ching, which is also a famous saying of Bruce Lee: Be Water.
+I have a lot of research on ancient Chinese culture, such as Tao Te Ching, Shan Hai Jing, the book of songs, Chu Ci and so on. These ancient books give me a lot of inspiration on how to be a man and how to create and how to design.I like a sentence in Tao Te Ching, which is also a famous saying of Bruce Lee: Be Water.
 
 
