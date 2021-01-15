@@ -1,10 +1,8 @@
 ## Wendao
 
-Founder of [Matrixages](http://matrixages.com/) , also, i am a web developer and designer, above is my work title, I prefer to identify myself as a product maker.
+A web developer and designer, i prefer to identify myself as Product Maker, founder of [Matrixages](http://matrixages.com/), you can call me wendao. My goal is to pursue beauty, think about the relationship between man and nature, explore the design system formed by nature, and apply it to life and product design.
 
-You can call me wendao. My goal is to pursue beauty, think about the relationship between man and nature, explore the design system formed by nature, and apply it to life and product design.
-
-I love to appreciate all kinds of architecture and get inspiration from it. I have a concept that everything can be designed. If you look at the world again with the idea of design, you will find many amazing things.
+I love to appreciate all kinds of architecture and get inspiration from it. I have a concept that everything can be designed.
 
 ## Sprites
 
