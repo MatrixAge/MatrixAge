@@ -10,9 +10,3 @@ I have a lot of research on ancient Chinese culture, such as Tao Te Ching, Shan 
 
 Be Water.
 
-
-<!-- waka-box start -->
-#### <a href="https://gist.github.com/9bc7025496e478f439b9cd43eba989a4" target="_blank">📊 Weekly development breakdown</a>
-
-<!-- waka-box end -->
-
