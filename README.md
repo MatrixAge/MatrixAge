@@ -10,8 +10,3 @@ I have a lot of research on ancient Chinese culture, such as Tao Te Ching, Shan 
 
 Be Water.
 
-## Social Medias
-
-- [Site](https://matrixages.com)
-- [BlueBird](https://twitter.com/xiewendao)
-- [Medium](https://medium.com/@xiewendao)
