@@ -10,3 +10,6 @@ I have a lot of research on ancient Chinese culture, such as Tao Te Ching, Shan 
 
 Be Water.
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/matrixage/count.svg" />
+</p>
