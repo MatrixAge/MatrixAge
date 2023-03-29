@@ -1,6 +1,6 @@
 ## Wendao
 
-A web developer, designer and a product maker, founder of [Matrixages](https://matrixages.com/),co-founder of [Yao](https://yaoapps.com/), you can call me wendao. My goal is to pursue the ultimate beauty, think about the relationship between man and nature, explore the design system formed by nature, and apply it to life and product design.
+A web developer, designer and a product maker, founder of [Matrixages](https://matrixages.com/), co-founder of [Yao](https://yaoapps.com/), you can call me wendao. My goal is to pursue the ultimate beauty, think about the relationship between man and nature, explore the design system formed by nature, and apply it to life and product design.
 
 I love to appreciate all kinds of architecture and get inspiration from it. I have a concept that everything can be designed.
 
